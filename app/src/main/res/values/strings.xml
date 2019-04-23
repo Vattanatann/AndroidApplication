@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CurrencyExchangeApplication</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="convert">Convert</string>
+    <string name="name">Name:</string>
+    <string name="school">School:</string>
+    <string name="limkokwing_unversity">Limkokwing Unversity</string>
+    <string name="major">Major:</string>
+    <string name="software_engineering_with_multimedia">Software Engineering with Multimedia</string>
+    <string name="email">Email:</string>
+    <string name="vattanatan_gmail_com"><u>vattanatan@gmail.com</u></string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="_010_627_868"><u>010 627 868</u></string>
+    <string name="logo">Logo</string>
+    <string name="tann_vattana">Tann Vattana</string>
+</resources>
